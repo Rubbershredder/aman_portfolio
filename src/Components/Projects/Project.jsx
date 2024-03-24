@@ -24,7 +24,7 @@ const Project = () => {
           <img src="./src/Components/Projects/Project.gif" alt="Shoes" className='mx-auto'/>
           <div className="card-body">
             <h2 className="card-title text-2xl hover:underline text-center">
-              <a href="https://github.com/Rubbershredder/Portfolio/" target='blank'><strong>Project 2</strong></a>
+              <a href="https://github.com/Rubbershredder/aman_portfolio" target='blank'><strong>Project 2</strong></a>
             </h2>
             <p>This is the my very first portfolio. This project is an integration of my current knowledge in frontend and backend and a very prominent usage of Claude AI  </p>
           </div>
