@@ -23,7 +23,7 @@ const Home = () => {
           repeat={Infinity}
         />
       </h1>
-      <img className='mx-auto' src="./Assests/IT.gif" alt="" />
+      <img className='mx-auto' src="../Assests/IT.gif" alt="" />
 
       <p>I am Aman Muleva, a dedicated student at Sri Venkateshwara College of Engineering. 
         I am passionate about technology and am currently working as a <a className="text-lg hover:underline" href="https://roadmap.sh/react" target='blank'><b>ReactJS developer</b></a>.
